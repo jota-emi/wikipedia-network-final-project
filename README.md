@@ -13,6 +13,9 @@ The project uses the following libraries:
 - `matplotlib`: A plotting library for creating static, animated, and interactive visualizations in Python.
 - `seaborn`: A Python data visualization library based on Matplotlib that provides a high-level interface for drawing informative and attractive statistical graphics.
 
+## Component
+- João Marcos Viana Silva
+
 ## Pipeline Tasks
 
 The pipeline consists of the following three tasks:
@@ -76,6 +79,6 @@ Please refer to the specific documentation for each library (e.g., `networkx`, `
 
 ## Explanation Video
 
-For a detailed walkthrough of the Directed Graph Generator with Wikipedia Links project, you can watch the explanation video [here](https://www.example.com).
+For a detailed walkthrough of the Directed Graph Generator with Wikipedia Links project, you can watch the explanation video [here](https://youtu.be/Phn-5-Q0gG8m).
 
 
